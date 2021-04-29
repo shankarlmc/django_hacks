@@ -60,7 +60,7 @@ Django version 3.2, using settings 'blog.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CONTROL-C.
 ```
-Creating the home app
+## Creating the home app
 ```
 (env)C:\Users\username>blog>python manage.py startapp home 
 ```
